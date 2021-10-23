@@ -50,7 +50,7 @@
 
 > [Отличный ресурс про паттерны проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
-## :fire: Лекция №2 *(неделя 1)*
+## :fire: [Лекция №2](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.pdf) *(неделя 1)*
 
 ### Принципы проектирования ПО, часть 2
 
