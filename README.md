@@ -23,14 +23,14 @@
 
 # План лекций
 
-## :fire: [Лекция №0](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%200.pdf) *(неделя 1)*
+## :white_check_mark: [Лекция №0](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%200.pdf) *(неделя 1)*
 
 - План курса
 - Правила оценки
 - Информация о заданиях
 - Контрольные мероприятия
 
-## :fire: [Лекция №1](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.pdf) *(неделя 1)*
+## :white_check_mark: [Лекция №1](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.pdf) *(неделя 1)*
 
 ### Принципы проектирования ПО, часть 1
 
@@ -50,7 +50,7 @@
 
 > [Отличный ресурс про паттерны проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
-## :fire: [Лекция №2](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.pdf) *(неделя 1)*
+## :white_check_mark: [Лекция №2](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.pdf) *(неделя 1)*
 
 ### Принципы проектирования ПО, часть 2
 
@@ -67,7 +67,7 @@
 
 > [Лекция Роберта *Uncle Bob* Мартина  про SOLID](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 
-## Лекция №3 *(неделя 2)*
+## :fire: Лекция №3 *(неделя 2)*
 
 ### Основные диаграммы UML
 
@@ -92,7 +92,7 @@
 
 > [UML Cheat Sheet](https://www.guru99.com/uml-cheatsheet-reference-guide.html)
 
-## Лекция №4 *(неделя 2)*
+## :fire: Лекция №4 *(неделя 2)*
 
 ### Этапы развития проекта
 
@@ -415,5 +415,5 @@ Bash и основные команды.
 *Оценка* = Округление (0,25\*(*ТЗ1* + *ТЗ2* + *ТЗ3*)/3 + 0,25\**КР* + 0,5\**ЭКЗ*)
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
-[1]:https://img.shields.io/badge/status-pending-yellow
-[2]:https://progress-bar.dev/0/
+[1]:https://img.shields.io/badge/status-running-green
+[2]:https://progress-bar.dev/17/
