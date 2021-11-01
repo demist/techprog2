@@ -67,7 +67,7 @@
 
 > [Лекция Роберта *Uncle Bob* Мартина  про SOLID](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 
-## :fire: Лекция №3 *(неделя 2)*
+## :fire: [Лекция №3](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%203.pdf) *(неделя 2)*
 
 ### Основные диаграммы UML
 
@@ -92,7 +92,7 @@
 
 > [UML Cheat Sheet](https://www.guru99.com/uml-cheatsheet-reference-guide.html)
 
-## :fire: Лекция №4 *(неделя 2)*
+## :fire: [Лекция №4](https://github.com/demist/techprog2/blob/main/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9/%D0%A2%D0%9F%20%D0%92%D0%A8%D0%91%202021%20-%202%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204.pdf) *(неделя 2)*
 
 ### Этапы развития проекта
 
