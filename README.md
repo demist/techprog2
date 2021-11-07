@@ -327,7 +327,7 @@ Bash и основные команды.
 
 > [bash script cheatsheet](https://devhints.io/bash)
 
-## Семинар 2 *(неделя 2)*
+## :white_check_mark: Семинар 2 *(неделя 2)*
 
 ### Диаграммы UML
 
