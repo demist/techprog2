@@ -129,7 +129,7 @@
 
 > [Статья про методологии разработки](https://acodez.in/12-best-software-development-methodologies-pros-cons/)
 
-## :fire: Лекция №6 *(неделя 3)*
+## :fire: [Лекция №6](https://github.com/demist/techprog2/blob/main/слайды%20лекций/ТП%20ВШБ%202021%20-%202%2C%20лекция%206.pdf) *(неделя 3)*
 
 ### Отладка ПО, ч.1: работа с ошибками ПО
 
