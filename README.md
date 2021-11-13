@@ -108,7 +108,7 @@
 - Сопровождение 
 - Вывод из эксплуатации
 
-## :fire: [Лекция №5](https://github.com/demist/techprog2/blob/main/слайды%20лекций/ТП%20ВШБ%202021%20-%202%2C%20лекция%205.pdf) *(неделя 3)*
+## :white_check_mark: [Лекция №5](https://github.com/demist/techprog2/blob/main/слайды%20лекций/ТП%20ВШБ%202021%20-%202%2C%20лекция%205.pdf) *(неделя 3)*
 
 ### Методологии разработки ПО
 
@@ -129,7 +129,7 @@
 
 > [Статья про методологии разработки](https://acodez.in/12-best-software-development-methodologies-pros-cons/)
 
-## :fire: [Лекция №6](https://github.com/demist/techprog2/blob/main/слайды%20лекций/ТП%20ВШБ%202021%20-%202%2C%20лекция%206.pdf) *(неделя 3)*
+## :white_check_mark: [Лекция №6](https://github.com/demist/techprog2/blob/main/слайды%20лекций/ТП%20ВШБ%202021%20-%202%2C%20лекция%206.pdf) *(неделя 3)*
 
 ### Отладка ПО, ч.1: работа с ошибками ПО
 
@@ -339,7 +339,7 @@ Bash и основные команды.
 - решаем задачку на диаграмму деятельности (например, "поступаем в университет")
 - решаем задачку на диаграмму состояний ("рассматриваем сдачу курса: изучается-сдан-пересдача-не сдан")
 
-## Семинар 3 *(неделя 3)*
+## :white_check_mark: Семинар 3 *(неделя 3)*
 
 ### Основы Python
 
@@ -475,4 +475,4 @@ Bash и основные команды.
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
 [1]:https://img.shields.io/badge/status-running-green
-[2]:https://progress-bar.dev/33/
+[2]:https://progress-bar.dev/50/
