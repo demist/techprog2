@@ -8,7 +8,7 @@
 
 ### [Канал с объявлениями по курсу в telegram](https://t.me/tphsetechprog2021_2)
 ### [Чат по курсу в telegram](https://t.me/joinchat/9Wrx-cie3EM0NWNi)
-### Таблица с результатами по курсу (*ссылка будет опубликована после первого отчетного мероприятия*)
+### [Таблица с результатами по курсу](https://docs.google.com/spreadsheets/d/1gBPYIjqejT6cFvr_Y6E2HRNFTH587no-LVD-pQW_Ef8/edit?usp=sharing)
 
 # Аннотация
 
