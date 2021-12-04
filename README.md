@@ -528,5 +528,5 @@ Bash и основные команды.
 *Оценка* = Округление (0,25\*(*ТЗ1* + *ТЗ2* + *ТЗ3*)/3 + 0,25\**КР* + 0,5\**ЭКЗ*)
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
-[1]:https://img.shields.io/badge/status-running-green
+[1]:https://img.shields.io/badge/status-exam-yellow
 [2]:https://progress-bar.dev/100/
