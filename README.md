@@ -520,7 +520,9 @@ Bash и основные команды.
 ### Часть №2 (стоит 5 баллов из 10)
 
 > [Github Actions](https://github.com/features/actions)
+
 > [Travis CI](https://www.travis-ci.com/)
+
 > [Circle CI](https://circleci.com/)
 
 #### Задание 
